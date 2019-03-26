@@ -1,4 +1,4 @@
-# Dev-Week-Hackathon-2019
+# DeveloperWeek-Hackathon-2019
 
 I collaborated with @aaronfrederick, @dynogravelso, and @jdmendoza at the San Francisco Developer Week Hackathon to create the webapp in this repo. The webapp is a demo of a product that uses Clarifai's Image recognition API for home safety. 
 
